@@ -3,8 +3,8 @@ import './About.css'
 const About = () => {
     return (
         <div className='about-title'>
-            <h4>This page is not available</h4>
-            <h3>Error: 404</h3>
+            <h2>Tech-Reviewer</h2>
+            <h4>Explore New Technology With us</h4>
         </div>
     );
 };

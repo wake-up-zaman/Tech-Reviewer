@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Tech-Reviewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project-Link: [Tech-Reviewer](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Details
 
-In the project directory, you can run:
+Markup : * This project contains review of customers 
+Markup : * To implement the site,React router is used
+Markup : * It also provide a dashboard which is made with rechart
+Markup : * Custom hook also used
 
 ### `npm start`
 
