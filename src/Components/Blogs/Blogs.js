@@ -15,7 +15,7 @@ const Blogs = () => {
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                      Multiple components can get data by using Context API without passing data manually through props.The Context API is working for this use cases: theming, user language, authentication, etc.React.createContext() is the main things. It contains a provider and a consumer.Provider component has a prop and any child can get access while passing this prop.Child function can be called along with its value by consumer component.
+                      Multiple components can get data by using Context API without passing data manually through props.The Context API is working for this use cases: theming, user language, authentication etc. React.createContext() is the main things. It contains a provider and a consumer.Provider component has a prop and any child can get access while passing this prop.Child function can be called along with its value by consumer component.
                       </div> 
                     </div>
                   </div>
