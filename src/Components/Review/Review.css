@@ -1,0 +1,8 @@
+.card-group2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+.review-title{
+    margin-top: 50px;
+}

@@ -21,7 +21,7 @@ const Home = () => {
             <div className='review-home'>
                 <h1 className='review-home-title'>Customer Review(3)</h1>
             </div>
-            {/* <ReviewHome></ReviewHome> */}
+            <ReviewHome></ReviewHome>
             <Link to="/review"><button className='More-Review'>More Review</button></Link>
         </div>
     );

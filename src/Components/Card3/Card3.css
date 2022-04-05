@@ -1,0 +1,25 @@
+.card-img, .card-img-top {
+    height:300px;
+    width: 300px !important;
+    justify-content: center;
+    border-left: 100px;
+    border-right: 100px;
+    border: 2px solid rgb(15, 13, 13);
+    border-radius: 30px;
+}
+.card{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.text-muted2{
+    color: rgb(21, 19, 19)!important;
+    font-weight: 500 !important;
+    font-size: 15px;
+}
+.card-footer{
+    background-color:  #a6b9c1 !important;
+    width: 100%;
+}
