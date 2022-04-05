@@ -4,10 +4,10 @@ Project-Link: [Tech-Reviewer](https://github.com/facebook/create-react-app).
 
 ## Project Details
 
-Markup : * This project contains review of customers 
-Markup : * To implement the site,React router is used
-Markup : * It also provide a dashboard which is made with rechart
-Markup : * Custom hook also used
+* This project contains review of customers 
+* To implement the site,React router is used
+* It also provide a dashboard which is made with rechart
+* Custom hook also used
 
 ### `npm start`
 
